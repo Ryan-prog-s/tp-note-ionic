@@ -1,0 +1,7 @@
+{
+  "name": "tp-note",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
